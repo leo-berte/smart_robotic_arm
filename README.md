@@ -9,7 +9,7 @@ A robotic arm playing tic-tac-toe autonomously against humans. Thanks to compute
 
 Components :
 
-- 1 robotic arm (5 servo MG996R)
+- 1 robotic arm (example: https://shorturl.at/2AOG0)
 - 1 webcam
 - Matlab + Arduino
 
