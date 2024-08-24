@@ -2,6 +2,9 @@
 
 A robotic arm playing tic-tac-toe autonomously against humans. Thanks to computer vision, the robot is able to understand the opponent move, think about its move and then grab a piece and put it on the chess autonomously.
 
+- matlab_code: it contains the code to control the webcam, process the image and returns the position of the cube on the chess.
+- arduino_code: it contains the code to control the robotic arm and the logic to play tic-tac-toe
+
 ===============================
 
 Components :
