@@ -5,7 +5,7 @@ A robotic arm playing tic-tac-toe autonomously against humans. Thanks to compute
 - matlab_code: it contains the code to control the webcam, process the image and returns the position of the cube on the chess.
 - arduino_code: it contains the code to control the robotic arm and the logic to play tic-tac-toe
 
-===============================
+----
 
 Components :
 
@@ -13,4 +13,4 @@ Components :
 - 1 webcam
 - Matlab + Arduino
 
-Video: https://youtube.com/shorts/6ItDv3Va4oA
+Video on youtube: https://youtube.com/shorts/6ItDv3Va4oA
