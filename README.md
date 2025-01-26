@@ -1,7 +1,7 @@
 # Robotic Arm playing tic-tac-toe against humans
 
 <div>
-    <img src="./images/bot.PNG" alt="Global Trajectory" style="width:85%; height:auto;">
+    <img src="./images/bot.png" alt="Global Trajectory" style="width:60%; height:auto;">
 </div><br>
 
 A robotic arm playing tic-tac-toe autonomously against humans. Thanks to computer vision, the robot is able to understand the opponent move, think about its move and then grab a piece and put it on the chess autonomously.
